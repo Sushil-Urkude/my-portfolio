@@ -22,8 +22,7 @@
   #experience,
   .experience-details-container {
     margin-top: 2rem;
-    flex-direction: row;
-    justify-content: space-around;
+    
   }
   #profile,
   .section-container {
